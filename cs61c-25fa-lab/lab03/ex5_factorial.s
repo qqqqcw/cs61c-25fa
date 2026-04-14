@@ -1,7 +1,7 @@
 .globl factorial
 
 .data
-n: .word 8
+n: .word 4
 
 .text
 # Don't worry about understanding the code in main
